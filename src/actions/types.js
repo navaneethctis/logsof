@@ -1,0 +1,17 @@
+export const ADD_LOG_MODAL = 'ADD_LOG_MODAL';
+export const EDIT_LOG_MODAL = 'EDIT_LOG_MODAL';
+export const ADD_TECHNICIAN_MODAL = 'ADD_TECHNICIAN_MODAL';
+export const TECHNICIANS_LIST_MODAL = 'TECHNICIANS_LIST_MODAL';
+export const SET_LOADING = 'SET_LOADING';
+export const LOGS_ERROR = 'LOGS_ERROR';
+export const SET_LOGS = 'SET_LOGS';
+export const ADD_LOG = 'ADD_LOG';
+export const REMOVE_LOG = 'REMOVE_LOG';
+export const SET_LOG_TO_EDIT = 'SET_LOG_TO_EDIT';
+export const CLEAR_LOG_TO_EDIT = 'CLEAR_LOG_TO_EDIT';
+export const UPDATE_LOG = 'UPDATE_LOG';
+export const SEARCH_LOGS = 'SEARCH_LOGS';
+export const TECHNICIANS_ERROR = 'TECHNICIANS_ERROR';
+export const SET_TECHNICIANS = 'SET_TECHNICIANS';
+export const ADD_TECHNICIAN = 'ADD_TECHNICIAN';
+export const REMOVE_TECHNICIAN = 'REMOVE_TECHNICIAN';
